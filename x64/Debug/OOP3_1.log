@@ -1,0 +1,3 @@
+﻿  BuildMaterials.cpp
+D:\Projects\OOPiP v2\OOP3_1\BuildMaterials.cpp(39,20): warning C4101: except: неиспользованная локальная переменная
+  OOP3_1.vcxproj -> D:\Projects\OOPiP v2\x64\Debug\OOP3_1.exe

@@ -1,4 +1,5 @@
 #include "Common.h"
+using namespace std;
 
 bool isFileExists(string dir) {
 	ifstream file(dir);

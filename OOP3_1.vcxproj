@@ -129,22 +129,17 @@
   <ItemGroup>
     <ClCompile Include="BuildMaterials.cpp" />
     <ClCompile Include="Common.cpp" />
-    <ClCompile Include="Employee.cpp" />
-    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="Humanic.cpp" />
     <ClCompile Include="Exceptional.cpp" />
-    <ClCompile Include="MaterialUnit.cpp" />
+    <ClCompile Include="InputValidation.cpp" />
     <ClCompile Include="OOP3_1.cpp" />
-    <ClCompile Include="Order.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BuildMaterials.h" />
     <ClInclude Include="Common.h" />
-    <ClInclude Include="Employee.h" />
-    <ClInclude Include="Entity.h" />
+    <ClInclude Include="Humanic.h" />
     <ClInclude Include="Exceptional.h" />
     <ClInclude Include="InputValidation.h" />
-    <ClInclude Include="MaterialUnit.h" />
-    <ClInclude Include="Order.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
